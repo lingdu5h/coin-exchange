@@ -1,0 +1,7 @@
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\config\WebSecurityConfig.java
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\constant\LoginConstant.java
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\controller\UserInfoController.java
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\config\AuthorizationServerConfig.java
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\config\ResourceServerConfig.java
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\service\impl\UserServiceDetailsServiceImpl.java
+H:\coin-exchange\coin-iaas\authorization-server\src\main\java\com\bjsxt\AuthorizationApplication.java

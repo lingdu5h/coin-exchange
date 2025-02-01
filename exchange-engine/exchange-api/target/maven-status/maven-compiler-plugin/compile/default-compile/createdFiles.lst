@@ -1,0 +1,5 @@
+com\bjsxt\feign\MarketServiceFeign.class
+com\bjsxt\dto\MarketDto.class
+com\bjsxt\dto\TradeMarketDto.class
+com\bjsxt\feign\TradingAreaServiceClient.class
+com\bjsxt\dto\TradeAreaDto.class

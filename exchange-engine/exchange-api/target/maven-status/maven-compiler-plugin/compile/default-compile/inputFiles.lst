@@ -1,0 +1,5 @@
+H:\coin-exchange\exchange-engine\exchange-api\src\main\java\com\bjsxt\dto\TradeAreaDto.java
+H:\coin-exchange\exchange-engine\exchange-api\src\main\java\com\bjsxt\dto\TradeMarketDto.java
+H:\coin-exchange\exchange-engine\exchange-api\src\main\java\com\bjsxt\feign\TradingAreaServiceClient.java
+H:\coin-exchange\exchange-engine\exchange-api\src\main\java\com\bjsxt\dto\MarketDto.java
+H:\coin-exchange\exchange-engine\exchange-api\src\main\java\com\bjsxt\feign\MarketServiceFeign.java
