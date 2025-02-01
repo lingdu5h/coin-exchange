@@ -22,23 +22,23 @@
 
 **3 后台管理功能**
 
-![](H:\gitup\图片1.png)
+![](H:\gitup\coin-exchange\arch\图片1.png)
 
 **4.前台功能**
 
-![](H:\gitup\图片2.png)
+![](H:\gitup\coin-exchange\arch\图片2.png)
 
 **5.移动端功能**
 
-![](H:\gitup\图片3.png)
+![](H:\gitup\coin-exchange\arch\图片3.png)
 
 **4.系统架构**
 
-![](H:\gitup\图片4.png)
+![](H:\gitup\coin-exchange\arch\图片4.png)
 
 **5.逻辑架构**
 
-![](H:\gitup\图片5.png)
+![](H:\gitup\coin-exchange\arch\图片5.png)
 
 **5.后端开发环境安装**
 
