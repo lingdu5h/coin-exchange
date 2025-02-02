@@ -40,7 +40,20 @@
 
 ![](https://github.com/lingdu5h/coin-exchange/blob/main/arch/%E5%9B%BE%E7%89%875.png)
 
-**5.后端开发环境安装**
+**6.撮合交易**
+
+![](https://github.com/lingdu5h/coin-exchange/blob/main/arch/%E5%9B%BE%E7%89%877.png)
+
+**7 委托单账本数据结构**
+![](https://github.com/lingdu5h/coin-exchange/blob/main/arch/%E5%9B%BE%E7%89%878.png)
+
+**8.交易流程**
+
+![](https://github.com/lingdu5h/coin-exchange/blob/main/arch/%E5%9B%BE%E7%89%879.png)
+
+
+
+**9.后端开发环境安装**
 
  （1） 服务器  CentOS 7.9 64位 
 
